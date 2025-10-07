@@ -1,6 +1,6 @@
 package com.github.trubers.trubers.registry.race;
 
-import com.github.b4ndithelps.tenaddex.TensuraAddonExample;
+import com.github.trubers.trubers.TensuraAddonExample;
 import com.github.trubers.trubers.race.ExampleRace;
 import com.github.manasmods.tensura.registry.race.TensuraRaces;
 import net.minecraft.resources.ResourceLocation;
