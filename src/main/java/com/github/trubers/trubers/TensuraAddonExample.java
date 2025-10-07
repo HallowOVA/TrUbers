@@ -1,6 +1,5 @@
 package com.github.trubers.trubers;
 
-import com.github.trubers.trubers.registry.race.AllRaces;
 import com.github.truber.trubers.registry.skill.AllSkills;
 import com.mojang.logging.LogUtils;
 import net.minecraft.client.Minecraft;

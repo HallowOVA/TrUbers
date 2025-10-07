@@ -1,4 +1,4 @@
-package com.github.b4ndithelps.tenaddex.ability.skill.extra;
+package com.github.trubers.trubers.ability.skill.extra;
 
 import com.github.b4ndithelps.tenaddex.TensuraAddonExample;
 import com.github.manasmods.manascore.api.skills.ManasSkill;
