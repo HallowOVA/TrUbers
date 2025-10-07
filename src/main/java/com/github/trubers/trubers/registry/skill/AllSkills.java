@@ -1,7 +1,7 @@
 package com.github.trubers.trubers.registry.skill;
 
 
-import com.github.b4ndithelps.tenaddex.TensuraAddonExample;
+import com.github.trubers.trubers.TensuraAddonExample;
 import com.github.trubers.trubers.ability.skill.common.ExampleCommonSkill;
 import com.github.trubers.trubers.ability.skill.extra.ExampleExtraSkill;
 import com.github.trubers.trubers.ability.skill.intrinsic.ExampleIntrinsicSkill;
