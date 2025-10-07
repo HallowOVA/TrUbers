@@ -1,7 +1,7 @@
-package com.github.b4ndithelps.tenaddex;
+package com.github.trubers.trubers;
 
-import com.github.b4ndithelps.tenaddex.registry.race.AllRaces;
-import com.github.b4ndithelps.tenaddex.registry.skill.AllSkills;
+import com.github.trubers.trubers.registry.race.AllRaces;
+import com.github.truber.trubers.registry.skill.AllSkills;
 import com.mojang.logging.LogUtils;
 import net.minecraft.client.Minecraft;
 import net.minecraftforge.api.distmarker.Dist;
